@@ -38,6 +38,16 @@
     <img src="res/BlinkEmoji.gif">
 </p>
 
+## Статистика Facebook
+Ниже привожу статистику, чтобы было понятно насколько маски эффективны. 
+<details>
+  <summary>Вовлеченность</summary>
+  <img src="res/facebook_global_stat_1.jpg">
+</details>
+<details>
+  <summary>Аудитория</summary>
+  <img src="res/facebook_global_stat_2.jpg">
+</details>
 
 ## Послесловие 
 Можно свободно использовать, редактировать и добавлять к себе в Instagram в качестве эффектов или масок.
